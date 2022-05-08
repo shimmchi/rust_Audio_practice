@@ -1,0 +1,2 @@
+# rust_Audio_practice
+Rustで音と並行プログラミングの練習
